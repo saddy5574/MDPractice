@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stand_alone_toolbar">stand Alone Toolbar</string>
+    <string name="action_bar_toolbar">Action Bar Toolbar</string>
+    <string name="contextual_menu">contextual Menu</string>
+</resources>
